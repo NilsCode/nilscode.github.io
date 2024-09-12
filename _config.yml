@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Nilesh Sutar"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pic.jpeg"
   bio              : "Robotics Autonomy Stack Developer"
   location         : "India"
   email            :
